@@ -14,6 +14,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'scout_apm'
 gem 'faker'
+gem 'nokogiri', '>= 1.10.4'
 
 group :development, :test do
   gem 'sqlite3'
